@@ -1,0 +1,9 @@
+<list>
+<perspective>
+    <icon>default</icon>
+    <name>ref</name>
+    <displayName>Ref pref</displayName>
+    <viewDisplayName>Reference application</viewDisplayName>
+</perspective>
+</list>
+
