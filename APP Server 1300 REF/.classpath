@@ -8,6 +8,9 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/SERVER"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/hr.adriacomsoftware.app.server.services"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/hr.adriacomsoftware.resources.server"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hr.adriacomsoftware.app.server.obrasci"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/APP Common"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/hr.adriacomsoftware.app.server.pravneosobe"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/hr.as2.app.server.ref"/>
 	<classpathentry kind="output" path=""/>
 </classpath>
